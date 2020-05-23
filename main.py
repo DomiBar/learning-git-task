@@ -10,3 +10,4 @@ for shop in shopping_list:
         shopping_list[shop][i]=shopping_list[shop][i].capitalize()
     print(f"Idę do {shop.capitalize()} i kupuję tam {shopping_list[shop]}")
     items+=len(shopping_list[shop])
+    print(f"W sumie kupuję {items} produktów")
