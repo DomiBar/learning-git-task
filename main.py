@@ -1,6 +1,7 @@
 shopping_list={
     "piekarnia": ["chleb", "pączek", "bułki"],
-    "warzywniak": ["marchew", "seler", "rukola"]
+    "warzywniak": ["marchew", "seler", "rukola"],
+    "spożywczy": ["masło","cukier","mąka","mleko"]
 }
 items=0
 
